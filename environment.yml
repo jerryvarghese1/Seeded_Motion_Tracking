@@ -3,7 +3,7 @@ channels:
 dependencies:
   - pandas==1.2.4
   - numpy==1.20.3
-  - opencv-python==4.5.1
+  - opencv==4.5.1
   - scikit-image
   - matplotlib==3.3.4
   - numba==0.53.1
