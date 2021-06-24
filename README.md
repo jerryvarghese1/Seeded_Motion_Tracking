@@ -1,7 +1,7 @@
 # Seeded_Motion_Tracking
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jerryvarghese1/Seeded_Motion_Tracking/main)
 
-Currently WIP
+Interactive Code Currently WIP
 
 Track motion by using a green laser grid projected onto the ground. OpenCV is currently not loading in binder, will check why that is the case soon.
 
